@@ -1,8 +1,8 @@
 {
   "name": "insight-api",
-  "description": "A Ravencoin blockchain REST and web socket API service for Ravencore Node.",
+  "description": "A CryptoRescue blockchain REST and web socket API service for CryptoRescueCore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/underdarkskies/insight-api.git",
+  "repository": "git://github.com/cryptorescue-project/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,18 +38,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/underdarkskies/insight-api/issues"
+    "url": "https://github.com/cryptorescue-project/insight-api/issues"
   },
-  "homepage": "https://github.com/underdarkskies/insight-api",
+  "homepage": "https://github.com/cryptorescue-project/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "ravencoin api",
+    "cryptorescue api",
     "blockchain api",
     "json",
-    "ravencore"
+    "cryptorescuecore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -58,11 +58,11 @@
     "test": "NODE_ENV=test mocha -R spec --recursive"
   },
   "main": "lib",
-  "ravencoreNode": "lib",
+  "cryptorescuecoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "ravencore-lib": "underdarkskies/ravencore-lib",
-    "ravencore-message": "underdarkskies/ravencore-message",
+    "cryptorescuecore-lib": "cryptorescue-project/cryptorescuecore-lib",
+    "cryptorescuecore-message": "cryptorescue-project/cryptorescuecore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
