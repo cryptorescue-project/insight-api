@@ -1,5 +1,12 @@
 [
   {
+    "poolName": "CPR Pool",
+    "url": "https://pool.cryptorescue.org/",
+    "searchStrings": [
+      "CPR Pool"
+    ]
+  },
+  {
     "poolName": "50BTC",
     "url": "https://50btc.com/",
     "searchStrings": [
