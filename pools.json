@@ -1,7 +1,7 @@
 [
   {
     "poolName": "CPR Pool",
-    "url": "https://pool.cryptorescue.org/",
+    "url": "http://pool.cryptorescue.org/",
     "searchStrings": [
       "CPR Pool"
     ]
