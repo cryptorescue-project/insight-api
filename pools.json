@@ -6,6 +6,13 @@
       "CPR Pool"
     ]
   },
+    {
+    "poolName": "bsod.pw",
+    "url": "https://bsod.pw/",
+    "searchStrings": [
+      "bsod.pw"
+    ]
+  },
   {
     "poolName": "50BTC",
     "url": "https://50btc.com/",
